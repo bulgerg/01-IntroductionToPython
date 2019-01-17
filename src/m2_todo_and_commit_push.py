@@ -83,10 +83,10 @@ print('The BoxScotters rule')
 #   (HINT: It is an INTERESTING number.)  Get help if your value is wrong.
 #
 ###############################################################################
-
+print(3067*34227)
 ###############################################################################
 #
-# TODO: 5.
+# DONE: 5.
 #   Look at the list of files in the Project window (to the left).
 #   Note that this file:
 #      m2_todo_and_commit_push.py
