@@ -57,7 +57,6 @@ turtle_b.backward(260)
 turtle_b.pen_down()
 
 
-
 for k in range(135):
     turtle_b.forward(500)
     turtle_b.right(129)
