@@ -30,9 +30,9 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 ########################################################################
 import rosegraphics as rg
 window = rg.TurtleWindow()
-window.tracer(100)
+#window.tracer(100)
 
-turtle_a=rg.SimpleTurtle()
+turtle_a=rg.SimpleTurtle('turtle')
 turtle_a.pen=rg.Pen('teal',1)
 turtle_a.speed=900
 turtle_a.pen_up()
